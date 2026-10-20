@@ -118,7 +118,7 @@ The instruction sequence is initialized in `ROM_PP.v`, while initial data values
 - Computer Architecture
 - Instruction Pipelining
 - Data Hazard Handling
-- ModelSim / Questa (for simulation)
+- Vivado
 
 ## Learning Outcomes
 
